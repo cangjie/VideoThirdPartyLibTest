@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HomeController.h
 //  VideoThirdPartyLibTest
 //
 //  Created by 苍杰 on 3/18/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HomeController : UIViewController
 
 @end
-
