@@ -28,7 +28,7 @@ struct  PlayAddress
 		bIsStudent = true;
 		nUserID = 0;
         bIsVideShow = false;
-	}
+    }
 };
 
 MPLATER_API bool   AVP_parsePalyAddrURL(const char* szPlayUrl,PlayAddress pa[4],int& nPaNum);
